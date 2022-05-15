@@ -1,25 +1,5 @@
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
-<style type="text/css">
-body {
-text-align: justify;
-font-style: normal;
-font-family: "Montserrat";
-font-size: 16px
-}
-h1 {
-  color: #B6854D;
-  font-size: 30px
-}
-h2 {
-  color: #B6854D;
-  font-size: 28px
-}
-h3 {
-  color: #B6854D;
-  font-size: 25px
-}
-</style>
 
 ## Indice de marginación 2010 <img src='Tools/Mapa_Mx_2010.png' align="right" height="138.5" />
 
@@ -48,9 +28,10 @@ ocasión, con la técnica denominada Distancias Ponderadas al cuadrado.
 
 ### :link: [Datos abiertos](https://datos.gob.mx/)
 
-<video width="620" height="540" autoplay muted>
-<source src="Tools/Datos Abiertos.mp4" type="video/mp4">
-</video>
+
+
+https://user-images.githubusercontent.com/105407540/168454062-9c914aa9-4891-46d6-8b8f-7bd6f23b24aa.mp4
+
 
 ### Metadatos
 
