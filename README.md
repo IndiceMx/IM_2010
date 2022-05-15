@@ -139,3 +139,7 @@ Consulta </a>
 </tr>
 </tbody>
 </table>
+
+<h4>  Etiquetas </h4>
+
+<code> <b>marginación</b></code> <code> <b>población</b> </code> <code><b>carencias</b></code> <code><b>desarrollo sostenible</b></code> <code><b>economia</b></code> <code><b>estimaciones</b></code> <code><b>índice</b> </code> <code><b>conapo</b> </code>
