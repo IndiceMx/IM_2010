@@ -1,28 +1,8 @@
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
-```css
-.body {
-text-align: justify;
-font-style: normal;
-font-family: "Montserrat";
-font-size: 16px
-}
-.h1 {
-  color: #B6854D;
-  font-size: 30px
-}
-.h2 {
-  color: #B6854D;
-  font-size: 28px
-}
-.h3 {
-  color: #B6854D;
-  font-size: 25px
-}
-```
 
-## Indice de marginación 2010 <img src='Tools/Mapa_Mx_2010.png' align="right" height="138.5" />
+## <span style="color:orange;">Indice de marginación 2010 </span><img src='Tools/Mapa_Mx_2010.png' align="right" height="138.5" />
 
 
 
