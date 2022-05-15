@@ -1,7 +1,7 @@
-<span style="color: green"> Some green text </span>
+
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 ## Indice de marginación 2010 <img src='Tools/Mapa_Mx_2010.png' align="right" height="138.5" />
-
+<span style="color: green"> Some green text </span>
 <!-- badges: start -->
 
 [![R-CMD-check](https://github.com/r-lib/usethis/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/r-lib/usethis/actions/workflows/R-CMD-check.yaml)
