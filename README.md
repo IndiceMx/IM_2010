@@ -30,6 +30,7 @@ ocasión, con la técnica denominada Distancias Ponderadas al cuadrado.
 
 https://user-images.githubusercontent.com/105407540/168457836-606c4a25-fb58-4dd4-987f-3f8427e6b4a5.mp4
  
+<img src="https://cdn.datos.gob.mx/ckan/img/lu_t_b.png" style="width: 30%;"/>
 
 <h3 style="color:#B6854D; font-family: "Montserrat"; font-size: 24px;">  Metadatos </h3>
 
