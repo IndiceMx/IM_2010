@@ -1,10 +1,8 @@
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
-## Indice de marginación 2010 <img src='Tools/Mapa_Mx_2010.png' align="right" height="138.5" />
-```css echo = FALSE
-   // code for coloring
-<span style="color: green"> Some green text </span>
-```
+
+<h1 style="color:#B6854D; font-family: "Montserrat"; font-size: 28px;"> Indice de marginación 2010</h1> <img src='Tools/Mapa_Mx_2010.png' align="right" height="138.5" />
+
 <!-- badges: start -->
 
 [![R-CMD-check](https://github.com/r-lib/usethis/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/r-lib/usethis/actions/workflows/R-CMD-check.yaml)
@@ -15,7 +13,7 @@ ocasión, con la técnica denominada Distancias Ponderadas al cuadrado.
 
 <!-- Anotaciones: start -->
 
-### :clipboard: Conjunto de datos
+<h2 style="color:#B6854D; font-family: "Montserrat"; font-size: 26px;"> 📋 Conjunto de datos </h2>
 
 <!-- Anotaciones: end -->
 
@@ -28,14 +26,13 @@ ocasión, con la técnica denominada Distancias Ponderadas al cuadrado.
 -   [Índice de marginación urbana por AGEB,
     2010](https://github.com/IndiceMx/IM_2010/blob/091cf8b2d124cc6f399b1bc9f6041e15c67fb6ef/IMU_2010.xlsx)
 
-### :link: [Datos abiertos](https://datos.gob.mx/)
+<h3 style="color:#B6854D;"> 📌 [Datos abiertos](https://datos.gob.mx/) </h3>
 
+<video width="620" height="540" autoplay muted>
+<source src="Tools/Datos Abiertos.mp4" type="video/mp4">
+</video>
 
-
-https://user-images.githubusercontent.com/105407540/168454062-9c914aa9-4891-46d6-8b8f-7bd6f23b24aa.mp4
-
-
-### Metadatos
+<h3 style="color:#B6854D; font-family: "Montserrat"; font-size: 24px;">  Metadatos </h3>
 
 <table class="table table-condensed table-hover lightable-classic" style="font-size: 10px; margin-left: auto; margin-right: auto; font-family: montserrat; width: auto !important; margin-left: auto; margin-right: auto;">
 <thead>
@@ -142,7 +139,3 @@ Consulta </a>
 </tr>
 </tbody>
 </table>
- 
-</body>
-</html>
-   
