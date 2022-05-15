@@ -2,7 +2,7 @@
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
 
-<p style='color:red'>Indice de marginación 2010 </p><img src='Tools/Mapa_Mx_2010.png' align="right" height="138.5" />
+<h1 style='color:red'>Indice de marginación 2010 </h1><img src='Tools/Mapa_Mx_2010.png' align="right" height="138.5" />
 
 <!-- badges: start -->
 
