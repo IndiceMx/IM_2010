@@ -1,8 +1,11 @@
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
+<!DOCTYPE html>
+<html>
+<body>
 
-<h1 style='color: #B6854D; font-size: 30px'>Indice de marginación 2010 </h1><img src='Tools/Mapa_Mx_2010.png' align="right" height="138.5" />
+<h1 style='color: #B6854D; font-size: 38px'>Indice de marginación 2010 </h1><img src='Tools/Mapa_Mx_2010.png' align="right" height="138.5" />
 
 <!-- badges: start -->
 
@@ -141,3 +144,8 @@ Consulta </a>
 </tr>
 </tbody>
 </table>
+
+    
+</body>
+</html>
+   
