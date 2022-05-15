@@ -26,11 +26,11 @@ ocasión, con la técnica denominada Distancias Ponderadas al cuadrado.
 -   [Índice de marginación urbana por AGEB,
     2010](https://github.com/IndiceMx/IM_2010/blob/091cf8b2d124cc6f399b1bc9f6041e15c67fb6ef/IMU_2010.xlsx)
 
-<h3 style="color:#B6854D;"> 📌 [Datos abiertos](https://datos.gob.mx/) </h3>
+###📌 [Datos abiertos](https://datos.gob.mx/)
 
-<video width="620" height="540" autoplay muted>
-<source src="Tools/Datos Abiertos.mp4" type="video/mp4">
-</video>
+
+https://user-images.githubusercontent.com/105407540/168457836-606c4a25-fb58-4dd4-987f-3f8427e6b4a5.mp4
+
 
 <h3 style="color:#B6854D; font-family: "Montserrat"; font-size: 24px;">  Metadatos </h3>
 
