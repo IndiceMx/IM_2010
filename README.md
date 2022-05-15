@@ -49,7 +49,7 @@ ocasión, con la técnica denominada Distancias Ponderadas al cuadrado.
 ### :link: [Datos abiertos](https://datos.gob.mx/)
 
 <video width="620" height="540" autoplay muted>
-<source src="C:/Users/dvill/Desktop/IMx/IM_2010/Tools/Datos Abiertos.mp4" type="video/mp4">
+<source src="Tools/Datos Abiertos.mp4" type="video/mp4">
 </video>
 
 ### Metadatos
