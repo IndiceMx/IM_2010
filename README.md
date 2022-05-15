@@ -1,7 +1,32 @@
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
-## <font color="green"> Indice de marginación 2010 </font><img src='Tools/Mapa_Mx_2010.png' align="right" height="138.5" />
+```css
+.body {
+text-align: justify;
+font-style: normal;
+font-family: "Montserrat";
+font-size: 16px
+}
+.h1 {
+  color: #B6854D;
+  font-size: 30px
+}
+.h2 {
+  color: #B6854D;
+  font-size: 28px
+}
+.h3 {
+  color: #B6854D;
+  font-size: 25px
+}
+```
+
+## Indice de marginación 2010 <img src='Tools/Mapa_Mx_2010.png' align="right" height="138.5" />
+
+
+
+## ![#f03c15](Indice de marginación 2010) <img src='Tools/Mapa_Mx_2010.png' align="right" height="138.5" />
 <!-- badges: start -->
 
 [![R-CMD-check](https://github.com/r-lib/usethis/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/r-lib/usethis/actions/workflows/R-CMD-check.yaml)
