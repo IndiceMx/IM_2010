@@ -4,7 +4,8 @@
 <!DOCTYPE html>
 <html>
 <body>
-
+<p style = 'font-family: "Montserrat"'>
+   
 <h1 style='color: #B6854D; font-size: 38px'>Indice de marginación 2010 </h1><img src='Tools/Mapa_Mx_2010.png' align="right" height="138.5" />
 
 <!-- badges: start -->
@@ -145,7 +146,7 @@ Consulta </a>
 </tbody>
 </table>
 
-    
+</p>    
 </body>
 </html>
    
