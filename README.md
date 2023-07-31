@@ -8,8 +8,7 @@
 [![R-CMD-check](https://github.com/r-lib/usethis/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/r-lib/usethis/actions/workflows/R-CMD-check.yaml)
 <!-- badges: end -->
 
-Las estimaciones que aquí se presentan se elaboraron, por primera
-ocasión, con la técnica denominada Distancias Ponderadas al cuadrado.
+Las estimaciones que aquí se presentan se elaboraron con la técnica denominada Distancias Ponderadas al cuadrado.
 
 <!-- Anotaciones: start -->
 
