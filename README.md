@@ -56,14 +56,6 @@ Fuente
 </tr>
 <tr>
 <td style="text-align:left;font-weight: bold;color: black !important;">
-Email del publicador
-</td>
-<td style="text-align:left;text-decoration: underline;">
-<a href=""> raul.romo@conapo.gob.mx </a>
-</td>
-</tr>
-<tr>
-<td style="text-align:left;font-weight: bold;color: black !important;">
 Frecuencia
 </td>
 <td style="text-align:left;text-decoration: underline;">
