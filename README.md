@@ -58,7 +58,7 @@ Fuente
 <td style="text-align:left;font-weight: bold;color: black !important;">
 Frecuencia
 </td>
-<td style="text-align:left;text-decoration: underline;">
+<td style="text-align:left;">
 <a href=""> R/P5Y </a>
 </td>
 </tr>
@@ -66,7 +66,7 @@ Frecuencia
 <td style="text-align:left;font-weight: bold;color: black !important;">
 GUID
 </td>
-<td style="text-align:left;text-decoration: underline;">
+<td style="text-align:left;">
 <a href=""> Índice de marginación (carencias poblacionales) por
 localidad, municipio y entidad </a>
 </td>
@@ -75,7 +75,7 @@ localidad, municipio y entidad </a>
 <td style="text-align:left;font-weight: bold;color: black !important;">
 Idioma
 </td>
-<td style="text-align:left;text-decoration: underline;">
+<td style="text-align:left;">
 <a href=""> es </a>
 </td>
 </tr>
@@ -83,7 +83,7 @@ Idioma
 <td style="text-align:left;font-weight: bold;color: black !important;">
 Modificado
 </td>
-<td style="text-align:left;text-decoration: underline;">
+<td style="text-align:left;">
 <a href=""> 2021-09-29T00:00:00Z </a>
 </td>
 </tr>
@@ -91,7 +91,7 @@ Modificado
 <td style="text-align:left;font-weight: bold;color: black !important;">
 Nombre del publicador
 </td>
-<td style="text-align:left;text-decoration: underline;">
+<td style="text-align:left;">
 <a href=""> CONAPO </a>
 </td>
 </tr>
@@ -99,7 +99,7 @@ Nombre del publicador
 <td style="text-align:left;font-weight: bold;color: black !important;">
 Publicado
 </td>
-<td style="text-align:left;text-decoration: underline;">
+<td style="text-align:left;">
 <a href=""> 2017-06-06T22:31:26Z </a>
 </td>
 </tr>
@@ -107,7 +107,7 @@ Publicado
 <td style="text-align:left;font-weight: bold;color: black !important;">
 Tema
 </td>
-<td style="text-align:left;text-decoration: underline;">
+<td style="text-align:left;">
 <a href=""> Desarrollo </a>
 </td>
 </tr>
@@ -115,7 +115,7 @@ Tema
 <td style="text-align:left;font-weight: bold;color: black !important;">
 Tipo del publicador
 </td>
-<td style="text-align:left;text-decoration: underline;">
+<td style="text-align:left;">
 <a href=""> Director de Poblamiento y Desarrollo Regional Sustentable
 </a>
 </td>
